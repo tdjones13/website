@@ -1,16 +1,16 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Tim</strong> Jones
+description: <a href="">Postdoctoral Fellow at the Carnegie Institution for Science</a>. email: tjones@carnegiescience.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpg
   address: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5241 Broad Branch Road, NW</p>
+    <p>Washington, DC 20015</p>
 
 news: true
 social: true
